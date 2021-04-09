@@ -131,14 +131,24 @@
     
 ## [Rx programming](http://reactivex.io/)
 ### Observable
-1. Operators
+1. [Operators](http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html)
+    - [Which Operator to Use?](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md)
     - Filtering
     - Mapping
-    - Fattening
+    - [Fattening](https://www.youtube.com/watch?v=rUZ9CjcaCEw)
     - Merging
-    - Combining
+    - [Combining](https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom/amp)
 1. Hot / Cold  
+1. [Multicast](http://reactivex.io/rxjs/manual/overview.html#multicasted-observables)
 ### Subject
+1. [Subject](http://reactivex.io/rxjs/manual/overview.html#subject)
+1. [BehaviorSubject](http://reactivex.io/rxjs/manual/overview.html#behaviorsubject)
+1. [ReplaySubject](http://reactivex.io/rxjs/manual/overview.html#replaysubject)
+1. [AsyncSubject](http://reactivex.io/rxjs/manual/overview.html#asyncsubject)
+
+### Help to learn
+1. [Marbles](https://rxmarbles.com/)
+1. [rxjs-fruits](https://www.rxjs-fruits.com/subscribe)
 
     
 
