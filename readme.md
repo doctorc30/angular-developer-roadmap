@@ -98,12 +98,12 @@
    - [event](https://angular.io/guide/event-binding)
    - [two way](https://angular.io/guide/two-way-binding)
 - Templating
-- Change detection
+- [Change detection](https://indepth.dev/posts/1053/everything-you-need-to-know-about-change-detection-in-angular)
 - Dynamic components
 - View encapsulation
 - Angular elements
 - Forms
-    - Reactive
+    - [Reactive](https://angular.io/guide/reactive-forms)
     - [Dynamic](https://angular.io/guide/dynamic-form)
 ### Modules
 - Lazy load modules
@@ -149,6 +149,6 @@
 ### Help to learn
 1. [Marbles](https://rxmarbles.com/)
 1. [rxjs-fruits](https://www.rxjs-fruits.com/subscribe)
-
+1. [libraries](https://habr.com/ru/post/348818/)
     
 
