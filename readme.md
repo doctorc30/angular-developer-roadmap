@@ -131,7 +131,7 @@
     
 ## [Rx programming](http://reactivex.io/)
 ### Observable
-1. [Operators](http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html)
+1. [Operators](https://rxjs-dev.firebaseapp.com/guide/operators)
     - [Which Operator to Use?](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md)
     - Filtering
     - Mapping
