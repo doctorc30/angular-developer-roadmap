@@ -106,7 +106,7 @@
     - [Reactive](https://angular.io/guide/reactive-forms)
     - [Dynamic](https://angular.io/guide/dynamic-form)
 ### Modules
-- Lazy load modules
+- [Lazy load modules](https://angular.io/guide/lazy-loading-ngmodules)
 - declarations
 - exports
 - imports
