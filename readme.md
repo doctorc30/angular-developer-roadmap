@@ -1,7 +1,10 @@
 # Angular Developer Roadmap
-  
-## Topics covered + suggested resources
+# Table of contents  
+1. [Topics covered + suggested resources](https://github.com/doctorc30/angular-developer-roadmap#topics-covered--suggested-resources)
+1. [Angular](https://github.com/doctorc30/angular-developer-roadmap#angular)
+1. [Rx programming](https://github.com/doctorc30/angular-developer-roadmap#rx-programming)
 
+## Topics covered + suggested resources
 ### The basics:
 - HTML
   - [marksheet.io](https://marksheet.io/)
