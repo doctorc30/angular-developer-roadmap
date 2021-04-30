@@ -56,7 +56,6 @@
   - [Angular Material](https://material.angular.io/)
   - [Clarity Design System](https://vmware.github.io/clarity/)
   - [Ant Design](https://ng.ant.design/docs/introduce/en)
-
 ### Coding style
 - [Angular Styleguide](https://angular.io/guide/styleguide)
 - [TSLint](https://palantir.github.io/tslint/)
@@ -69,7 +68,6 @@
   - [The introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
   - [RxJS manual](http://reactivex.io/rxjs/manual/overview.html#introduction)
   - [RxJS In-Depth (video)](https://www.youtube.com/watch?v=KOOT7BArVHQ)
-
 ### Progressive Web Apps
 - [@angular/pwa](https://angular.io/guide/service-worker-getting-started)
 - [Workbox](https://developers.google.com/web/tools/workbox/)
@@ -124,7 +122,6 @@
 ### Services
 - [dependency injection](https://angular.io/guide/architecture-services)
 - [Client-server interaction](https://angular.io/guide/architecture-next-steps#client-server-interaction)
-
 ### State Management
 #### [ngrx](https://github.com/ngrx/platform/blob/master/docs/store/README.md)
   - [/effects](https://github.com/ngrx/platform/blob/master/docs/effects/README.md)
@@ -132,7 +129,6 @@
   - [/entity](https://github.com/ngrx/platform/tree/master/docs/entity/README.md)
   - [ngrx-data](https://github.com/johnpapa/angular-ngrx-data)
 #### [NGXS](https://ngxs.gitbook.io/ngxs/)
-
 ### Architecture
 - [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
 - [Building Libraries](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
@@ -154,7 +150,6 @@
 1. [BehaviorSubject](http://reactivex.io/rxjs/manual/overview.html#behaviorsubject)
 1. [ReplaySubject](http://reactivex.io/rxjs/manual/overview.html#replaysubject)
 1. [AsyncSubject](http://reactivex.io/rxjs/manual/overview.html#asyncsubject)
-
 ### Help to learn
 1. [Marbles](https://rxmarbles.com/)
 1. [rxjs-fruits](https://www.rxjs-fruits.com/subscribe)
