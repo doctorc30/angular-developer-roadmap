@@ -146,7 +146,7 @@
     - [Fattening](https://www.youtube.com/watch?v=rUZ9CjcaCEw)
     - Merging
     - [Combining](https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom/amp)
-1. Hot / Cold  
+1. [Hot / Cold](https://softchris.github.io/books/rxjs/hot-n-cold-observables/)
 1. [Multicast](http://reactivex.io/rxjs/manual/overview.html#multicasted-observables)
 ### Subject
 1. [Subject](http://reactivex.io/rxjs/manual/overview.html#subject)
