@@ -139,6 +139,7 @@
     
 ## [Rx programming](http://reactivex.io/)
 ### Observable
+1. [Marble diagrams](http://reactivex.io/rxjs/manual/overview.html#marble-diagrams)
 1. [Operators](https://rxjs-dev.firebaseapp.com/guide/operators)
     - [Which Operator to Use?](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md)
     - Filtering
