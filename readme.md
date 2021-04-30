@@ -2,7 +2,12 @@
 # Table of contents  
 1. [Topics covered + suggested resources](https://github.com/doctorc30/angular-developer-roadmap#topics-covered--suggested-resources)
 1. [Angular](https://github.com/doctorc30/angular-developer-roadmap#angular)
-1. [Rx programming](https://github.com/doctorc30/angular-developer-roadmap#rx-programming)
+  1. [Basic functional](https://github.com/doctorc30/angular-developer-roadmap#basic-functional)
+  2. [Components](https://github.com/doctorc30/angular-developer-roadmap#components)
+  3. [Modules](https://github.com/doctorc30/angular-developer-roadmap#modules)
+  4. [State Management](https://github.com/doctorc30/angular-developer-roadmap#state-management)
+  5. [Architecture](https://github.com/doctorc30/angular-developer-roadmap#architecture)
+3. [Rx programming](https://github.com/doctorc30/angular-developer-roadmap#rx-programming)
 
 ## Topics covered + suggested resources
 ### The basics:
