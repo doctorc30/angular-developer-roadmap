@@ -8,6 +8,9 @@
     4. [State Management](https://github.com/doctorc30/angular-developer-roadmap#state-management)
     5. [Architecture](https://github.com/doctorc30/angular-developer-roadmap#architecture)
 3. [Rx programming](https://github.com/doctorc30/angular-developer-roadmap#rx-programming)
+    1. [Observable](https://github.com/doctorc30/angular-developer-roadmap#observable) 
+    2. [Subject](https://github.com/doctorc30/angular-developer-roadmap#subject)
+    3. [Help to learn](https://github.com/doctorc30/angular-developer-roadmap#help-to-learn)
 
 ## Topics covered + suggested resources
 ### The basics:
