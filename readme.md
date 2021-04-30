@@ -118,12 +118,12 @@
 - [Client-server interaction](https://angular.io/guide/architecture-next-steps#client-server-interaction)
 
 ### State Management
-## [ngrx](https://github.com/ngrx/platform/blob/master/docs/store/README.md)
+#### [ngrx](https://github.com/ngrx/platform/blob/master/docs/store/README.md)
   - [/effects](https://github.com/ngrx/platform/blob/master/docs/effects/README.md)
     - [Action Stream](https://medium.com/@tanya/understanding-ngrx-effects-and-the-action-stream-1a74996a0c1c#:~:text=NgRx%20Effects%20allow%20us%20to,and%20also%20as%20its%20destination.) 
   - [/entity](https://github.com/ngrx/platform/tree/master/docs/entity/README.md)
   - [ngrx-data](https://github.com/johnpapa/angular-ngrx-data)
-## [NGXS](https://ngxs.gitbook.io/ngxs/)
+#### [NGXS](https://ngxs.gitbook.io/ngxs/)
 
 ### Architecture
 - [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
