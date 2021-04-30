@@ -141,7 +141,7 @@
 ### Observable
 1. [Marble diagrams](http://reactivex.io/rxjs/manual/overview.html#marble-diagrams)
 3. [Operators](https://rxjs-dev.firebaseapp.com/guide/operators)
-    - [Which Operator to Use?](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md)
+    - Which Operator to Use? [this](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md) or [this](http://reactivex.io/rxjs/manual/overview.html#choose-an-operator)
     - Filtering
     - Mapping
     - [Fattening](https://www.youtube.com/watch?v=rUZ9CjcaCEw)
