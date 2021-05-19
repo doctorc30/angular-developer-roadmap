@@ -145,7 +145,13 @@
 - [Schematics](https://www.npmjs.com/package/@angular-devkit/schematics)
 - [Building Libraries](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
 - [@angular/elements](https://angular.io/guide/elements)
-    
+### Performance
+[Check list](https://github.com/mgechev/angular-performance-checklist/blob/master/README.ru-RU.md)
+- [Tree-shaking](https://webpack.js.org/guides/tree-shaking/)
+- [AoT](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
+- Runtime Optimizations
+    - Change Detection
+    - trackBy  
 ## [Rx programming](http://reactivex.io/)
 ### Observable
 1. [Marble diagrams](http://reactivex.io/rxjs/manual/overview.html#marble-diagrams)
