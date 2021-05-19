@@ -101,6 +101,7 @@
 - Pipe
 - Routing
 - Services
+- Libraries
 ### Components
 - Binding
    - [property](https://angular.io/guide/property-binding)
@@ -121,7 +122,15 @@
 - imports
 - providers
 - bootstrap
-- libraries
+### Routing
+- [routes](https://angular.io/guide/router)
+- activated route
+- guards
+- resolvers
+- data
+- loadChildren
+- outlets
+- [router module config](https://angular.io/api/router/ExtraOptions)
 ### Services
 - [dependency injection](https://angular.io/guide/architecture-services)
 - [Client-server interaction](https://angular.io/guide/architecture-next-steps#client-server-interaction)
