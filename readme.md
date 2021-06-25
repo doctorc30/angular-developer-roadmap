@@ -113,7 +113,7 @@
 - Dynamic components
 - View encapsulation
 - Angular elements
-- [Entry components](https://angular.io/guide/entry-components) [Why is it deprecated](https://angular.io/guide/deprecations#entrycomponents-and-analyze_for_entry_components-no-longer-required)
+- [Entry components.](https://angular.io/guide/entry-components) [Why is it deprecated?](https://angular.io/guide/deprecations#entrycomponents-and-analyze_for_entry_components-no-longer-required)
 - Forms
     - [Reactive](https://angular.io/guide/reactive-forms)
     - [Dynamic](https://angular.io/guide/dynamic-form)
