@@ -102,13 +102,20 @@
 - Routing
 - Services
 - Libraries
-### Components / Derictives
-- [Components vs Derictives](https://stackoverflow.com/questions/32680244/directive-vs-component-in-angular)
+### Components / Derectives
+- [Components vs Derectives](https://stackoverflow.com/questions/32680244/directive-vs-component-in-angular)
+    `Components—directives with a template. This type of directive is the most common directive type.`
+- [Types of directives]
+   - [Built-in](https://angular.io/guide/built-in-directives)
+   - [Attribute](https://angular.io/guide/attribute-directives)
+   - [Structural](https://angular.io/guide/structural-directives)
 - Binding
    - [property](https://angular.io/guide/property-binding)
    - [event](https://angular.io/guide/event-binding)
    - [two way](https://angular.io/guide/two-way-binding)
 - Templating
+- [ViewChild](https://angular.io/api/core/ViewChild)
+- [HostListener](https://angular.io/api/core/HostListener)
 - [Lifecycle](https://angular.io/guide/lifecycle-hooks#lifecycle-hooks)
 - [Change detection](https://indepth.dev/posts/1053/everything-you-need-to-know-about-change-detection-in-angular)
 - Dynamic components
