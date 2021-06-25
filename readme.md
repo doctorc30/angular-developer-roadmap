@@ -102,7 +102,8 @@
 - Routing
 - Services
 - Libraries
-### Components
+### Components / Derictives
+- [Components vs Derictives](https://stackoverflow.com/questions/32680244/directive-vs-component-in-angular)
 - Binding
    - [property](https://angular.io/guide/property-binding)
    - [event](https://angular.io/guide/event-binding)
