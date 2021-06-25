@@ -104,8 +104,8 @@
 - Libraries
 ### Components / Derectives
 - [Components vs Derectives](https://stackoverflow.com/questions/32680244/directive-vs-component-in-angular)
-    `Components—directives with a template. This type of directive is the most common directive type.`
-- [Types of directives]
+    </br>`Components—directives with a template. This type of directive is the most common directive type.`
+- Types of directives
    - [Built-in](https://angular.io/guide/built-in-directives)
    - [Attribute](https://angular.io/guide/attribute-directives)
    - [Structural](https://angular.io/guide/structural-directives)
