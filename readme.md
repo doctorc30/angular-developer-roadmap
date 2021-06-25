@@ -108,6 +108,7 @@
    - [event](https://angular.io/guide/event-binding)
    - [two way](https://angular.io/guide/two-way-binding)
 - Templating
+- [Lifecycle](https://angular.io/guide/lifecycle-hooks#lifecycle-hooks)
 - [Change detection](https://indepth.dev/posts/1053/everything-you-need-to-know-about-change-detection-in-angular)
 - Dynamic components
 - View encapsulation
