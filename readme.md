@@ -169,7 +169,7 @@
     - Which Operator to Use? [this](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/which-instance.md) or [this](http://reactivex.io/rxjs/manual/overview.html#choose-an-operator)
     - Filtering
     - Mapping
-    - [Fattening](https://www.youtube.com/watch?v=rUZ9CjcaCEw)
+    - [Flattening](https://www.youtube.com/watch?v=rUZ9CjcaCEw)
     - Merging
     - [Combining](https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom/amp)
 4. [Hot / Cold](https://softchris.github.io/books/rxjs/hot-n-cold-observables/)
