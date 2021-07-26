@@ -163,6 +163,10 @@
     - Change Detection
     - trackBy  
 ## [Rx programming](http://reactivex.io/)
+### What is it?
+1. [MoscowJS 42 – RxJS по косточкам](https://www.youtube.com/watch?v=3rEDHnqn-Cw)
+2. [Введение в реактивное программирование](https://habr.com/ru/company/arcadia/blog/432004/)
+3. [Реактивное программирование на реальных примерах: подробное введение](https://tproger.ru/translations/reactive-programming/)
 ### Observable
 1. [Marble diagrams](http://reactivex.io/rxjs/manual/overview.html#marble-diagrams)
 3. [Operators](https://rxjs-dev.firebaseapp.com/guide/operators)
